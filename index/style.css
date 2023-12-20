@@ -2,8 +2,7 @@
 
 input[type="radio"] {
   position: absolute;
-  top: -9999em;
-}
+  top: -9999em;}
 
 html, body {
   font-family: Mandali, Arial, sans-serif;
