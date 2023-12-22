@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello yaar dekho chal jaooooooo
+=======
+hello everyone
+>>>>>>> DevB
